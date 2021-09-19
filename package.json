@@ -1,0 +1,17 @@
+{
+  "name": "avukat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css --output-style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "node-sass": "^6.0.1",
+    "popper.js": "^1.16.1"
+  }
+}
